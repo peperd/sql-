@@ -1,0 +1,10 @@
+{
+    "env": {
+        "db": {
+            "host": "db4free.net",
+            "user": "cypressroot",
+            "password": "dbforcypress",
+            "database": "dbforcypress"
+        }
+    }
+}
